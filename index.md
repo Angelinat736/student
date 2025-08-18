@@ -6,7 +6,7 @@ hide: true
 
 ### Me and Team
 
-Hi! My name is Angie.
+Hi! My name is Angie 🩷.
 
 | Role         | Name     | Repo Location                       | Stream                | Repo Name |
 |--------------|----------|-------------------------------------|-----------------------|-----------|
